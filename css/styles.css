@@ -25,6 +25,9 @@ body {
   margin-left: 2000px;
   transition: 0.5s;
 }
+.student{
+  color: #e2fe2c;
+}
 #button:hover {
   background-color: #e2fe2c;
   opacity: 0.5;
